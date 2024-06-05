@@ -109,7 +109,8 @@
 
 ![Mishkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MishkatIT&repo=MishkatIT)](https://github.com/MishkatIT/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
+</br>
 
 ## Where to find me
 
