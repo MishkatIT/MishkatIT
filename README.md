@@ -126,11 +126,11 @@
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/mishkatit?logo=true)](https://atcoder.jp/users/MishkatIT)
 [![Badge](https://cp-logo.vercel.app/codechef/mishkatit?logo=true)](https://www.codechef.com/users/mishkatit)
-[![CSES](https://img.shields.io/badge/CSES-000000.svg?style=flat-square&logo=css3&logoColor=white)](https://cses.fi/user/MishkatIT)
+[![CSES](https://img.shields.io/badge/CSES-000000.svg?style=flat-square&logo=css3&logoColor=white)](https://cses.fi/user/165802)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MishkatIT/)
 
 [![SPOJ](https://img.shields.io/badge/SPOJ-000000.svg?style=flat-square&logo=spoj&logoColor=white)](https://www.spoj.com/users/MishkatIT)
-[![LightOJ](https://img.shields.io/badge/LightOJ-24b9bb.svg?style=flat-square&logo=LightOJ&logoColor=white)](https://lightoj.com/user/MishkatIT)
+[![LightOJ](https://img.shields.io/badge/LightOJ-24b9bb.svg?style=flat-square&logo=LightOJ&logoColor=white)](https://lightoj.com/user/mishkatit)
 [![Toph](https://img.shields.io/badge/Toph-000000.svg?style=flat-square&logo=toph&logoColor=white)](https://toph.co/u/MishkatIT)
 [![Vjudge](https://img.shields.io/badge/Vjudge-000000.svg?style=flat-square&logo=vjudge&logoColor=white)](https://vjudge.net/user/MishkatIT)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MishkatIT)
