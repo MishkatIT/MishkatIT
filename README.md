@@ -122,8 +122,9 @@
 
 ## 🧠 Competitive Programming Profiles
 
+<!-- [![AtCoder](https://badges.joonhyung.xyz/atcoder/MishkatIT.svg)](https://atcoder.jp/users/MishkatIT) -->
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
-[![AtCoder](https://badges.joonhyung.xyz/atcoder/MishkatIT.svg)](https://atcoder.jp/users/MishkatIT)
+[![AtCoder](https://cp-logo.vercel.app/atcoder/mishkatit?logo=true)](https://atcoder.jp/users/MishkatIT)
 [![Badge](https://cp-logo.vercel.app/codechef/mishkatit?logo=true)](https://www.codechef.com/users/mishkatit)
 [![CSES](https://img.shields.io/badge/CSES-000000.svg?style=flat-square&logo=css3&logoColor=white)](https://cses.fi/user/MishkatIT)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MishkatIT/)
@@ -138,8 +139,6 @@
 [![Kattis](https://img.shields.io/badge/Kattis-000000.svg?style=flat-square&logo=kattis&logoColor=white)](https://open.kattis.com/users/MishkatIT)
 
 ---
-
-📝 **Important**: Replace `MishkatIT` with the actual username if necessary.
 
 
 
