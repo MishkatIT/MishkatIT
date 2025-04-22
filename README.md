@@ -101,8 +101,8 @@
 - 🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!
 
 
-
 ## Numbers
+<div align="center">
 <img src="https://img.shields.io/badge/Profile%20Stats-MishkatIT-success.svg" style="filter: invert(1);" />
 
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
@@ -111,6 +111,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
 </br>
+</div>
 
 ## Where to find me
 
@@ -138,8 +139,9 @@
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-000000.svg?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@MishkatIT)
 [![Kattis](https://img.shields.io/badge/Kattis-000000.svg?style=flat-square&logo=kattis&logoColor=white)](https://open.kattis.com/users/mishkatit)
 
-
+<div align="center">
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mishkatit&force_username=true&show_icons=true)](https://codeforces.com/profile/mishkatit)
+</div>
 ---
 
 
