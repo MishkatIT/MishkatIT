@@ -117,10 +117,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskat141/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/miskat141)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/miskat141/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/MishkatIT)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MishkatIT/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mishkatit)
-[![Atcoder](https://img.shields.io/badge/AtCoder-%23808080.svg?style=flat-square&logo=AtCoder&logoColor=%23808080)](https://atcoder.jp/users/mishkatit)
+[![AtCoder](https://badges.joonhyung.xyz/atcoder/MishkatIT.svg)](https://atcoder.jp/users/MishkatIT)
 
 
 
