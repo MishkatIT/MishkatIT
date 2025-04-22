@@ -138,6 +138,8 @@
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-000000.svg?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@MishkatIT)
 [![Kattis](https://img.shields.io/badge/Kattis-000000.svg?style=flat-square&logo=kattis&logoColor=white)](https://open.kattis.com/users/mishkatit)
 
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mishkatit&force_username=true&show_icons=true)](https://codeforces.com/profile/mishkatit)
 ---
 
 
