@@ -39,9 +39,9 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskat141/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/miskat141)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/miskat141/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskat141/) 
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/miskat141)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/miskat141/)
 
 ---
 
@@ -50,13 +50,13 @@
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/mishkatit?logo=true)](https://atcoder.jp/users/MishkatIT)
 [![CodeChef](https://cp-logo.vercel.app/codechef/mishkatit?logo=true)](https://www.codechef.com/users/mishkatit)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MishkatIT/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/MishkatIT/)
 [![CSES](https://img.shields.io/badge/CSES-000000.svg?style=flat-square&logo=css3&logoColor=white)](https://cses.fi/user/165802)
 [![SPOJ](https://img.shields.io/badge/SPOJ-000000.svg?style=flat-square&logo=spoj&logoColor=white)](https://www.spoj.com/users/mishkatit)
 [![LightOJ](https://img.shields.io/badge/LightOJ-24b9bb.svg?style=flat-square&logo=LightOJ&logoColor=white)](https://lightoj.com/user/mishkatit)
 [![Toph](https://img.shields.io/badge/Toph-000000.svg?style=flat-square&logo=toph&logoColor=white)](https://toph.co/u/MishkatIT)
 [![Vjudge](https://img.shields.io/badge/Vjudge-000000.svg?style=flat-square&logo=vjudge&logoColor=white)](https://vjudge.net/user/MishkatIT)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MishkatIT)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MishkatIT)
 [![UVa](https://img.shields.io/badge/UVA-000000.svg?style=flat-square&logo=uva&logoColor=white)](https://uhunt.onlinejudge.org/id/1615470)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-000000.svg?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@MishkatIT)
 [![Kattis](https://img.shields.io/badge/Kattis-000000.svg?style=flat-square&logo=kattis&logoColor=white)](https://open.kattis.com/users/mishkatit)
