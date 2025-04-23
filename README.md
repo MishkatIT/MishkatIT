@@ -71,7 +71,9 @@
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mishkatit&theme=light&filter=daily" alt="LeetCode Badges" />
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mishkatit&theme=light&filter=annual" alt="LeetCode Badges" />
 
-![Mishkat's LeetCode statsl](https://leetcode-badge-sage.vercel.app/badge/mishkatit?theme=neutral)
+![](https://leetcard.jacoblin.cool/mishkatit?ext=heatmap) <!-- use ext=contest to show contest graph, or remove any ext to not show-->
+
+<!-- ![Mishkat's LeetCode statsl](https://leetcode-badge-sage.vercel.app/badge/mishkatit?theme=neutral) -->
 
 
 </div>
