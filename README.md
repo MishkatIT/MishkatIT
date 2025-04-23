@@ -45,7 +45,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/miskat141)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/miskat141/)
 
-### 🧠 Competitive Programming Profiles
+### 🧠 Competitive Programming Profiles 
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/mishkatit?logo=true)](https://atcoder.jp/users/MishkatIT)
@@ -88,6 +88,15 @@
 
 </div>
 
+<be>
+<be>
+<be>
+
+<p align="center">
+  <a href="https://github.com/MishkatIT/ProblemSolvingStats">
+    <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Different_Online_Judges-darkgreen" alt="Total Solve Badge" width="" height="35">
+  </a>
+</p>
 
 
 
