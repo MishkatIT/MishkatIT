@@ -37,13 +37,13 @@
 </br>
 </div>
 
+---
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskat141/) 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/miskat141)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/miskat141/)
-
----
 
 ### 🧠 Competitive Programming Profiles
 
@@ -64,10 +64,23 @@
 
 <div align="center">
   
- ### CodeForces 
+<!-- ## <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="26"/> CodeForces -->
+
+<br>
+
+#  **Codeforces Stats**
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mishkatit&force_username=true&show_icons=true&cache_seconds=3600)](https://codeforces.com/profile/mishkatit)
 
-### LeetCode
+
+<br>
+<br>
+<br>
+
+
+
+#  **LeetCode Stats**
+
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mishkatit&theme=light&filter=daily" alt="LeetCode Badges" />
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mishkatit&theme=light&filter=annual" alt="LeetCode Badges" />
 
