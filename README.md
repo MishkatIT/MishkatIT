@@ -99,7 +99,7 @@
 
 ◌ I love blending logic with creativity, constantly growing as a developer and designer.
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Github Stats
 <div align="center">
 <img src="https://img.shields.io/badge/Profile%20Stats-MishkatIT-success.svg" style="filter: invert(1);" />
 
