@@ -23,6 +23,12 @@
 
 🔁 I enjoy blending **logic + creativity** to grow as a developer & designer.
 
+📄 [View My Resume](https://tinyurl.com/resume-md-mishkatul-islam)
+
+---
+
+Let me know if you want to use **CV** instead of **Resume**, or if you'd like a shorter version for a profile bio.
+
 ---
 
 
