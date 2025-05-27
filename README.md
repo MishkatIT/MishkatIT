@@ -23,7 +23,7 @@
 
 🔁 I enjoy blending **logic + creativity** to grow as a developer & designer.
 
-📄 [View My Resume](https://tinyurl.com/resume-md-mishkatul-islam)
+📄 [View My Resume](https://www.notion.so/Resume-Md-Mishkatul-Islam-20042a3d9cb980208b45cbc627476e4e)
 
 ---
 
