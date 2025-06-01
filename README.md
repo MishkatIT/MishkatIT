@@ -17,11 +17,11 @@
 
 🖥️ I use **C++, Java, Python, C, PHP** and manage **MySQL** databases.
 
-🎨 I'm also a **Fiverr graphic designer**, focused on minimal & creative designs.
+🎨 I'm also a **Fiverr Level-2 graphic designer**, focused on minimal & creative designs.
 
 🌿 Hobbies include **hiking, cycling, and reading**.
 
-🔁 I enjoy blending **logic + creativity** to grow as a developer & designer.
+🔁 I enjoy blending **logic + creativity** to grow as a Programmer & Designer.
 
 📄 [View My Resume](https://www.notion.so/Resume-Md-Mishkatul-Islam-20042a3d9cb980208b45cbc627476e4e)
 
