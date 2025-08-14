@@ -25,11 +25,7 @@
 
 📄 [View My Resume](https://www.notion.so/Resume-Md-Mishkatul-Islam-20042a3d9cb980208b45cbc627476e4e)
 
----
 
-Let me know if you want to use **CV** instead of **Resume**, or if you'd like a shorter version for a profile bio.
-
----
 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Github Stats
