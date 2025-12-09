@@ -23,7 +23,11 @@
 
 🔁 I enjoy blending **logic + creativity** to grow as a Programmer & Designer.
 
+![My Resume Animation](resume-card.svg)
+<!-- 
 📄 [View My Resume](https://drive.google.com/file/d/1klsrCBKxdh0aQC_5qoYpizRK96n9nqjX/view?usp=drive_link)
+-->
+
 
 
 
