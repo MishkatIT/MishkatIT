@@ -1,5 +1,5 @@
 <svg version="1.1" id="Glitch_Loop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-     width="600px" height="200px" viewBox="0 0 600 200">
+     width="195px" height="28px" viewBox="0 0 170 28">
 <style type="text/css">
 <![CDATA[
     @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
@@ -10,7 +10,8 @@
         font-family: 'Share Tech Mono', monospace;
         font-size: 18px;
         font-weight: bold;
-        text-anchor: start; /* Keeps text at top-left */
+        text-anchor: start; 
+        dominant-baseline: central; /* Helps center text vertically */
     }
     
     svg {
@@ -62,6 +63,6 @@
 </defs>
 
 <g>
-    <text x="10" y="35">VIEW MY RESUME 🔗</text> 
+    <text x="2" y="50%">VIEW MY RESUME 🔗</text> 
 </g>
 </svg>
