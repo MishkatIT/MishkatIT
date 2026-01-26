@@ -25,7 +25,7 @@
 
 [![My Resume Animation](resume-card.svg)](https://drive.google.com/drive/folders/1UjG9uQSrSyVGfJfQPSDyVk7mfYCjO_C3?usp=sharing)
 <!-- 
-📄 [View My Resume](https://drive.google.com/file/d/1klsrCBKxdh0aQC_5qoYpizRK96n9nqjX/view?usp=drive_link)
+📄 [View My Resume](https://drive.google.com/file/d/12Oi-A8XNMfmJi8cfWDS8pit1T4YSB0Rs/view?usp=drive_link/preview?v=1)
 -->
 
 
