@@ -97,7 +97,7 @@
 <be>
 
 <p align="center">
-  <a href="https://github.com/MishkatIT/ProblemSolvingStats">
+  <a href="https://github.com/MishkatIT/ProblemSolvingStats/?tab=readme-ov-file#top">
     <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Different_Online_Judges-darkgreen" alt="Total Solve Badge" width="" height="35">
   </a>
 </p>
