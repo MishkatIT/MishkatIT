@@ -54,7 +54,7 @@
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
 [![AtCoder](https://cp-logo.vercel.app/atcoder/mishkatit?logo=true)](https://atcoder.jp/users/MishkatIT)
 [![CodeChef](https://cp-logo.vercel.app/codechef/mishkatit?logo=true)](https://www.codechef.com/users/mishkatit)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/MishkatIT/)
+[![LeetCode](https://cp-logo.vercel.app/leetcode/MishkatIT?logo=true)](https://leetcode.com/MishkatIT/)
 [![CSES](https://img.shields.io/badge/CSES-000000.svg?style=flat-square&logo=css3&logoColor=white)](https://cses.fi/user/165802)
 [![SPOJ](https://img.shields.io/badge/SPOJ-000000.svg?style=flat-square&logo=spoj&logoColor=white)](https://www.spoj.com/users/mishkatit)
 [![LightOJ](https://img.shields.io/badge/LightOJ-24b9bb.svg?style=flat-square&logo=LightOJ&logoColor=white)](https://lightoj.com/user/mishkatit)
@@ -98,9 +98,12 @@
 
 <p align="center">
   <a href="https://github.com/MishkatIT/ProblemSolvingStats/?tab=readme-ov-file#top">
-    <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Different_Online_Judges-darkgreen" alt="Total Solve Badge" width="" height="35">
+    <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Different_Online_Judges-darkgreen"
+         alt="Total Solve Badge"
+         width="70%">
   </a>
 </p>
+
 
 
 
