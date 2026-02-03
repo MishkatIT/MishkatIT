@@ -100,7 +100,7 @@
   <a href="https://github.com/MishkatIT/ProblemSolvingStats/?tab=readme-ov-file#top">
     <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Different_Online_Judges-darkgreen"
          alt="Total Solve Badge"
-         width="70%">
+         width="60%">
   </a>
 </p>
 
